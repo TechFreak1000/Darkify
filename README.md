@@ -50,7 +50,7 @@ python dimmer.py
 Don't want to mess with Python?
 
 👉 Download the latest release here
-(Add the link after uploading your .exe)
+https://github.com/TechFreak1000/Darkify/releases/download/v3.0/Dim_scr_v3.0.exe
 
 🔐 Permissions
 The script uses Win32 API and may require admin rights on some systems.
