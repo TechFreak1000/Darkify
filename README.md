@@ -15,6 +15,27 @@ Darkify – Because your screen doesn’t need to be the sun. A hotkey-powered d
 
 ---
 
+🛠️ Usage Instructions
+Download the .exe from the Releases page
+
+Double-click to run
+
+App will start in background – it won't show a popup or window
+
+Use the hotkey Ctrl + Shift + D to toggle dimming
+
+Right-click the tray icon to adjust brightness or exit
+
+---
+
+⚠️ Note
+Don’t panic if nothing happens when you run it!
+There’s no splash screen or message — but it is running in the background.
+Just press Ctrl + Shift + D or check the system tray (near the clock) for a new icon.
+That’s your ninja-mode dimmer in action.
+
+---
+
 ### ⚙️ Controls
 
 | Action                      | Shortcut             |
