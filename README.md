@@ -14,24 +14,20 @@ Darkify – Because your screen doesn’t need to be the sun. A hotkey-powered d
 - 📦 Available as a standalone `.exe` (no install required)
 
 ---
+## 🛠️ Usage Instructions
 
-🛠️ Usage Instructions
-Download the .exe from the Releases page
+- Download the `.exe` from the [Releases](https://github.com/TechFreak1000/Darkify/releases) page  
+- Double-click to run  
+- App will start in background – it won't show a popup or window  
+- Use the hotkey `Ctrl + Shift + D` to toggle dimming  
+- Right-click the tray icon to adjust brightness or exit
 
-Double-click to run
 
-App will start in background – it won't show a popup or window
+## ⚠️ Note
 
-Use the hotkey Ctrl + Shift + D to toggle dimming
-
-Right-click the tray icon to adjust brightness or exit
-
----
-
-⚠️ Note
-Don’t panic if nothing happens when you run it!
-There’s no splash screen or message — but it is running in the background.
-Just press Ctrl + Shift + D or check the system tray (near the clock) for a new icon.
+**Don’t panic if nothing happens when you run it!**  
+There’s no splash screen or message — but it *is* running in the background.  
+Just press `Ctrl + Shift + D` or check the system tray (near the clock) for a new icon.  
 That’s your ninja-mode dimmer in action.
 
 ---
